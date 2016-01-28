@@ -1,6 +1,6 @@
 name: Double Lucky
 favicon: null
-layout_spectrum: 0.1489330157637596
+layout_spectrum: 1
 typography_spectrum: 0.458893948700279
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.39006643323227763
   lightness: 0.702091404935345
   saturation: 0.3518631374463439
-  rhythmicContrast: 0.5949809022713453
+  rhythmicContrast: 1
 purpose: []
